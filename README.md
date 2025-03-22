@@ -1,6 +1,6 @@
-Hi I'm Jared.
+👋 Hi, I'm Jared.
 
-<!---
-Jared-Hood/Jared-Hood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check out some of my sites:
+
+🏞️ [nationalparkmapper](https://nationalparkmapper.com)\
+🇻🇮 [usvibeaches.com](https://usvibeaches.com)
